@@ -1,0 +1,15 @@
+C:\Users\melch\code_projects\C#\demo_07_08_09\bin\Debug\net8.0\demo_07_08_09.exe
+C:\Users\melch\code_projects\C#\demo_07_08_09\bin\Debug\net8.0\demo_07_08_09.deps.json
+C:\Users\melch\code_projects\C#\demo_07_08_09\bin\Debug\net8.0\demo_07_08_09.runtimeconfig.json
+C:\Users\melch\code_projects\C#\demo_07_08_09\bin\Debug\net8.0\demo_07_08_09.dll
+C:\Users\melch\code_projects\C#\demo_07_08_09\bin\Debug\net8.0\demo_07_08_09.pdb
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.AssemblyInfoInputs.cache
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.AssemblyInfo.cs
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.csproj.CoreCompileInputs.cache
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.sourcelink.json
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.dll
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\refint\demo_07_08_09.dll
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.pdb
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\demo_07_08_09.genruntimeconfig.cache
+C:\Users\melch\code_projects\C#\demo_07_08_09\obj\Debug\net8.0\ref\demo_07_08_09.dll
